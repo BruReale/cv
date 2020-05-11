@@ -1,0 +1,33 @@
+  body{
+    background-color: #f9f9f9;
+    align-content: center;
+    font-family: sans-serif;
+    text-align: center;
+    align-self: center;
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #6886c5;
+    border-width: 8px;
+    height: 0px;
+    width: 5%;
+    align-content: center;
+  }
+
+  h1{
+    color: #ffacb7;
+    font-family: sans-serif;
+    font-weight: 100;
+  }
+
+  h3{
+    color: #ffacb7;
+    font-family: monospace;
+    font-size: 200%;
+  }
+
+  table{
+    margin: auto;
+  }
